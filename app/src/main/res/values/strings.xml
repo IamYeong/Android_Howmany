@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">하우매니</string>
+    <string name="admob_app_id">ca-app-pub-8489601855107344~7743652360</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8489601855107344/3679148808</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
