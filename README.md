@@ -2,7 +2,7 @@
 
 ## 소개   
 
-<img src="" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116389697-37b30680-a858-11eb-8f27-7723c05c2b00.PNG" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
 - 월급 -> 소비 -> 잔여금액 이라는 일정한 패턴에서 착안해서 만든 앱입니다.   
 결국 직장인들의 '저축'이란 월급 - 소비 의 결과가 쌓이는 것이죠.   
