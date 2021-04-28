@@ -16,6 +16,28 @@
 
 ## 스크린샷   
 
+<!--
+![스플래시](https://user-images.githubusercontent.com/59534301/116383218-9a54d400-a851-11eb-990c-c422f1a6f690.jpg)
+![초기화면](https://user-images.githubusercontent.com/59534301/116383487-d8ea8e80-a851-11eb-9ae0-c705121a3028.jpg)
+![목표설정](https://user-images.githubusercontent.com/59534301/116383513-dee06f80-a851-11eb-9088-7b314cf66f39.jpg)
+![수입지출입력화면](https://user-images.githubusercontent.com/59534301/116383526-e142c980-a851-11eb-9eb5-d47e57fd6317.jpg)
+![입력완료](https://user-images.githubusercontent.com/59534301/116383543-e56ee700-a851-11eb-9bad-b6427f79bbc3.jpg)
+![상승](https://user-images.githubusercontent.com/59534301/116383558-eacc3180-a851-11eb-9276-3b82f0f4b289.jpg)
+![삭제예시](https://user-images.githubusercontent.com/59534301/116383596-f1f33f80-a851-11eb-9112-39f5a68ca3a2.jpg)
+![통계화면](https://user-images.githubusercontent.com/59534301/116383618-f586c680-a851-11eb-9fb3-8a19da8d0088.jpg)
+![설정화면](https://user-images.githubusercontent.com/59534301/116383621-f7e92080-a851-11eb-8009-f59458d5494f.jpg)
+-->
+
+<img src="https://user-images.githubusercontent.com/59534301/116383218-9a54d400-a851-11eb-990c-c422f1a6f690.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383487-d8ea8e80-a851-11eb-9ae0-c705121a3028.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383513-dee06f80-a851-11eb-9088-7b314cf66f39.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383526-e142c980-a851-11eb-9eb5-d47e57fd6317.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383543-e56ee700-a851-11eb-9bad-b6427f79bbc3.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="https://user-images.githubusercontent.com/59534301/116383558-eacc3180-a851-11eb-9276-3b82f0f4b289.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383596-f1f33f80-a851-11eb-9112-39f5a68ca3a2.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383618-f586c680-a851-11eb-9fb3-8a19da8d0088.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/59534301/116383621-f7e92080-a851-11eb-8009-f59458d5494f.jpg" width="100px" height="" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
 
 ***
 
@@ -30,5 +52,8 @@
 - CardView : 보기 좋게 리스트를 꾸밀 수 있었습니다.
 - Intent : 외부 링크와 연결시켰습니다.
 - SQLiteHelper : 내부db를 활용하여 CRUD를 구현했습니다.
+- Animation : FloatingActionButton 이 45도 회전하며   
+다른 버튼을 나타나게(투명도 / 크기 / Clickable 옵션 컨트롤) 합니다.
+- Banner Ad : 배너광고를 출력합니다.
 
 ***
